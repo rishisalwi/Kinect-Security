@@ -19,3 +19,6 @@ We learned to use a data visualization software for the first time, learned to i
 
 ## What's next for Kinect Security:
 IoT that can control many functions with gestures + phone app. Feedback from different sensors (e.g. temperature, humidity), with database. 
+
+<p align="center">
+  <img src ="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/462/298/datas/gallery.jpg" width="50%" height="50%"/>
